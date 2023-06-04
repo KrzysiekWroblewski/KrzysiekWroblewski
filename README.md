@@ -36,9 +36,10 @@ SolidWorks, SolidWorks PDM, Balluff, Sick, Keyence, Festo, SMC
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Data engineer**     | **Accenture** |  **ETL, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
-|Project Manager     | [Eurosteel](https://http://www.eurosteel.pl)          | leading a team of designers  | 01.03.2017 — 01.09.2017    |
-| Mechanical Engineer     | [Eurosteel](https://http://www.eurosteel.pl)          | 3D Steel structures in SolidWorks  | 01.03.2016 — 01.03.2017    |
+| **Project Leader**     | **[Promatik](https://promatik-kielce.com.pl) ** |  ** Leading a team of designers **         | **01.03.2020 - now** |
+|Mechanical Engineer    | [Promatik](https://promatik-kielce.com.pl)          | Designing assembly stations and automatic/manual assembly lines.  | 01.09.2017 — 01.03.2020    |
+|Project Manager     | [Eurosteel](https://http://www.eurosteel.pl)          | Leading a team of designers  | 01.03.2017 — 01.09.2017    |
+| Mechanical Engineer     | [Eurosteel](https://http://www.eurosteel.pl)          | 3D Designing Steel structures in SolidWorks  | 01.03.2016 — 01.03.2017    |
 
 
 ### Education 🎓
