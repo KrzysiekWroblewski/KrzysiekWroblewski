@@ -2,6 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+I am working as a design team leader in mechanical engineering industry. During my work I noticed how much important is employees productivity. I started to write simple programs to help my team with boring office stuff.  And that was the beggining of my road as a python developer.
 
 ```python
 
