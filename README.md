@@ -30,7 +30,8 @@ me.say_hi()
 
 - **Machine design**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 SolidWorks, SolidWorks PDM, Balluff, Sick, Keyence, Festo, SMC
-- **Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Python, SQL
+- **Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+Python, SQL
 
 
 ### Work experience 👔
