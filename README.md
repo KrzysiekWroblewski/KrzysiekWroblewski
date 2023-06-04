@@ -37,9 +37,8 @@ SolidWorks, SolidWorks PDM, Balluff, Sick, Keyence, Festo, SMC
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
 | **Data engineer**     | **Accenture** |  **ETL, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
-| Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | software engineering, Date analyst        | 29.02.2021 — 28.02.2022    |
-| IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | maintenance of IT infrastructure        | 01.03.2020 — 28.02.2021    |
-| Scada/HMI intern      | [ASTOR](https://www.astor.com.pl/o-nas/o-nas/kim-jestesmy.html)          | Automatic control, HMI, SQL, problem solving        | 01.08.2019 — 01.09.2019    |
+|Project Manager     | [Eurosteel](https://http://www.eurosteel.pl)          | leading a team of designers  | 01.03.2017 — 01.09.2017    |
+| Mechanical Engineer     | [Eurosteel](https://http://www.eurosteel.pl)          | 3D Steel structures in SolidWorks  | 01.03.2016 — 01.03.2017    |
 
 
 ### Education 🎓
