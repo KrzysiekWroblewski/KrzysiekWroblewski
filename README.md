@@ -14,7 +14,7 @@ class PythonEngineer:
         self.roles =
           [
               "SolidWorks Designer",
-              "SolidWorks PDM Admin",
+              "SolidWorks PDM WorkFlow Admin",
               "Junior Python Developer",
               "Junior Data Engineer"
           ]
